@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-07T15:06:43 IST" name="Default suite" finished-at="2023-07-07T15:07:48 IST" duration-ms="65634">
+    <groups>
+    </groups>
+    <test started-at="2023-07-07T15:06:43 IST" name="Default test" finished-at="2023-07-07T15:07:48 IST" duration-ms="65634">
+      <class name="tests.DataDrivenTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:tests.DataDrivenTest@72f926e6]" started-at="2023-07-07T15:06:43 IST" name="initialization" finished-at="2023-07-07T15:06:52 IST" duration-ms="9589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="saucePageLogin()[pri:0, instance:tests.DataDrivenTest@72f926e6]" started-at="2023-07-07T15:06:52 IST" name="saucePageLogin" finished-at="2023-07-07T15:07:48 IST" duration-ms="55584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saucePageLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.DataDrivenTest@72f926e6]" started-at="2023-07-07T15:07:48 IST" name="tearDown" finished-at="2023-07-07T15:07:48 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.DataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
